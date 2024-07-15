@@ -4213,7 +4213,7 @@ ul.pagination li a {
   margin: 0 2px;
 }
 ul.pagination li a:hover {
-  backgroud: #000 !important;
+  background: #000 !important;
 }
 ul.pagination li a.current {
   background: #77c720;
